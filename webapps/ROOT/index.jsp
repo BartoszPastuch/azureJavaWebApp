@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-    <b><% out.println("Hello World! 333333 "); %></b>
+    <b><% out.println("Hello World! Traffic Test point "); %></b>
   </body>
 </html>
